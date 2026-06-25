@@ -1,0 +1,5 @@
+Laptop;8500000.0;10
+Mouse Wireless;150000.0;25
+Keyboard Mekanik;450000.0;15
+Monitor 24 Inch;1750000.0;8
+Headset Gaming;350000.0;12
